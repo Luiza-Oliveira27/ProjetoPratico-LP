@@ -1,6 +1,8 @@
 package br.ufpb.dcx.oliveirasilva.maria;
 
-public class Hospede implements Hospedagem {
+import java.util.List;
+
+public class Hospede{
     private String codigo;
     private String nome;
     private String telefone;
